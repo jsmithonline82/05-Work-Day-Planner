@@ -5,5 +5,5 @@ DATA IS SAVED IN LOCAL STORAGE. IT IS RELOADED WHEN THE PAGE RELOADS
 COLORS CHANGE DEPENDING ON TIME OF DAY AS HOURS PASS.
 
 
-![ScreenShot](screenshot.jpg)
+![ScreenShot](https://github.com/jsmithonline82/05-Work-Day-Planner/raw/main/screenshot.jpg)
 [DEPLOYMENT](https://jsmithonline82.github.io/05-Work-Day-Planner/)
